@@ -1,0 +1,48 @@
+{
+  "name": "@shotlingo/text-expansion",
+  "version": "1.0.0",
+  "description": "Translation length expansion ratios for App Store screenshot localization. Predicts how text from English grows or shrinks in 40+ target languages so UI layouts don't break post-translation.",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "types": "./index.d.ts"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "aso",
+    "localization",
+    "i18n",
+    "text-expansion",
+    "translation",
+    "app-store",
+    "google-play",
+    "ui",
+    "layout",
+    "mobile"
+  ],
+  "author": {
+    "name": "Alperen Güntekin",
+    "url": "https://shotlingo.com"
+  },
+  "license": "MIT",
+  "homepage": "https://shotlingo.com/tools/text-expansion-calculator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlperenGuntekin/shotlingo-text-expansion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlperenGuntekin/shotlingo-text-expansion/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

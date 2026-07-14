@@ -81,6 +81,15 @@ languages and auto-sizes text overlays so this kind of overflow never ships.
 - [`@shotlingo/locale-codes`](https://www.npmjs.com/package/@shotlingo/locale-codes) — App Store + Play Store locale codes for 40+ supported languages.
 - [`@shotlingo/screenshot-sizes`](https://www.npmjs.com/package/@shotlingo/screenshot-sizes) — current App Store + Google Play screenshot dimensions per device class (2026).
 
+## Related tools
+
+- [Text expansion calculator](https://shotlingo.com/tools/text-expansion-calculator) — paste English copy, see per-locale length + visual width side by side.
+- [App Store locale codes lookup](https://shotlingo.com/tools/app-store-locale-codes) — the locale dataset behind these expansion ratios.
+
 ## License
 
 MIT © [Alperen Güntekin](https://shotlingo.com)
+
+---
+
+<sub>Made by [AI screenshot localizer](https://shotlingo.com) — Shotlingo, App Store screenshot localization for 40+ languages.</sub>

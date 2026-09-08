@@ -92,4 +92,4 @@ MIT © [Alperen Güntekin](https://shotlingo.com)
 
 ---
 
-<sub>Made by [AI screenshot localizer](https://shotlingo.com) — Shotlingo, App Store screenshot localization for 40+ languages.</sub>
+<sub>Made by [App Store localization checker](https://shotlingo.com) — Shotlingo, App Store screenshot localization for 40+ languages.</sub>
